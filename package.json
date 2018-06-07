@@ -1,0 +1,8 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mribichich/test1.git",
+  "author": "Matias Ribichich <guli4073@gmail.com>",
+  "license": "MIT"
+}
